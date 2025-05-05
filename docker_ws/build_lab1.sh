@@ -1,0 +1,1 @@
+docker build --rm -t ros_humble:lab1 -f Dockerfile.lab1 .
